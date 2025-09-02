@@ -4,8 +4,8 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Confeitaria",
-  description: "confeitaria em next",
+  title: "Cafeteria",
+  description: "cafeteria em next",
 };
 
 export default function RootLayout({
